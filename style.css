@@ -1,0 +1,23 @@
+html, 
+body, 
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 62.5%;/* normally 100 percent, 16 px, 62.5 is 10 px */
+}
+.parent {
+    font-size: 10px;
+}
+h2{
+    margin: 1rem;
+}
+.first  {
+    font-size: 10px;
+}
+.second {
+    font-size: 1rem;
+}
+.third {
+    font-size: 1em;
+}
