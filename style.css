@@ -5,25 +5,40 @@ body,
     margin: 0;
     box-sizing: border-box;
     font-size: 100%;/* normally 100 percent, 16 px, 62.5 is 10 px */
+    background-image: url(https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG);
+    font-family: "Poppins",sans-serif;
+    text-align: center;
+    color: white;
+
+    
+}
+
+.title {
+    font-size: 60px;
+    
+}
+
 }
 .row1 {
-    font-size: 16px;
+   
     display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    padding: 10px;
+
 }
 .row2 {
-    font-size: 16px;
+   
     display: flex;
+    justify-content: space-around;
+}
+.row3 {
+  
+    display: flex;
+    justify-content: space-around;
+    
 }
 h2{
     margin: 1rem;
-
-}
-.first  {
-    font-size: 16px;
-}
-.second {
-    font-size: 1rem;
-}
-.third {
-    font-size: 1em;
+    font-size: 23px;
 }
