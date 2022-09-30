@@ -19,22 +19,24 @@ body,
 }
 
 .row1 {
-   
+
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
-    margin: 10px;
-    padding: 10px;
-    
+  
 
 }
+
 .row2 {
    
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
 }
 .row3 {
   
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     
 }
@@ -45,4 +47,13 @@ h2{
 
 img {
     border-style: solid;
+}
+button {
+   
+    transition: all 0.2s;
+   
+}
+button:hover{
+    transform: scale(1.2);
+   
 }
