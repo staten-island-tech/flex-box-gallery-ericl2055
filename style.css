@@ -12,7 +12,8 @@ body,
 }
 
 .title {
-  font-size: 60px;
+  font-size: 80px;
+ 
 }
 
 .row1 {
@@ -36,6 +37,10 @@ body,
 }
 .small {
   font-size: 20px;
+}
+h1 {
+    margin-top: 10px;
+    color: white;
 }
 h2 {
   background:whitesmoke;
