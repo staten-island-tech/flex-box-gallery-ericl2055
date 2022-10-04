@@ -12,7 +12,7 @@ body,
 }
 
 .title {
-  font-size: 80px;
+  font-size: 100px;
  
 }
 
@@ -36,7 +36,7 @@ body,
   justify-content: space-around;
 }
 .small {
-  font-size: 20px;
+  font-size: 25px;
 }
 h1 {
     margin-top: 10px;
@@ -45,15 +45,14 @@ h1 {
 h2 {
   background:whitesmoke;
   margin: 1rem;
-  font-size: 27px;
+  font-size: 32px;
 }
 
 img {
   border-style: solid;
 }
 button {
-  height: 265;
-  width: 404;
+ 
   background: whitesmoke;
   transition: all 0.2s;
 }
