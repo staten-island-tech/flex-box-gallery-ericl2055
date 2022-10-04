@@ -8,52 +8,45 @@ body,
   background-image: url(https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG);
   font-family: "Poppins", sans-serif;
   text-align: center;
-  color: black;
+  color: whitesmoke;
 }
 
 .title {
   font-size: 100px;
  
 }
-
-.row1 {
+.parent {
   display: flex;
   padding: 30px;
   flex-wrap: wrap;
   justify-content: space-around;
 }
 
-.row2 {
-  display: flex; 
-  padding: 30px;
-  flex-wrap: wrap;
-  justify-content: space-around;
-}
-.row3 {
-  display: flex;
-  padding: 30px;
-  flex-wrap: wrap;
-  justify-content: space-around;
-}
 .small {
-  font-size: 25px;
+  font-size: 30px;
 }
 h1 {
     margin-top: 10px;
     color: white;
 }
 h2 {
-  background:whitesmoke;
+  background:rgb(85, 79, 79);
+  border: 10px;
   margin: 1rem;
-  font-size: 32px;
+  font-size: 37px;
 }
 
 img {
   border-style: solid;
+  color: rgb(145, 161, 214);
 }
 button {
-  background: whitesmoke;
+  height: 360;
+  width: 540;
+  border-radius: 10px;
+  background: rgb(85, 79, 79);
   transition: all 0.2s;
+  margin-bottom: 50px;
 }
 button:hover {
   transform: scale(1.2);
