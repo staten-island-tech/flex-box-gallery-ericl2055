@@ -52,3 +52,14 @@ button {
 button:hover {
   transform: scale(1.2);
 }
+
+.glitchpop:hover {
+  transform: rotate(10deg);
+}
+.spectrum:hover {
+  transform: rotate(-10deg);
+}
+.champions:hover {
+  color:rgb(245, 218, 63);
+  box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
+}
