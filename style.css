@@ -47,6 +47,7 @@ button {
   background: rgb(85, 79, 79);
   transition: all 0.2s;
   margin-bottom: 50px;
+  box-shadow: 1px 3px 3px black;
 }
 button:hover {
   transform: scale(1.2);
