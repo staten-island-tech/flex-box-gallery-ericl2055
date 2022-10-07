@@ -54,7 +54,7 @@ button:hover {
 
 .glitchpop:hover {
   transform: rotate(3deg);
-  box-shadow:  0 10px 25px rgb(153, 231, 245);
+  box-shadow: 0 10px 25px rgb(153, 231, 245);
 }
 .spectrum:hover {
   transform: rotate(-3deg);
@@ -82,5 +82,4 @@ button:hover {
 }
 .xeno:hover {
   box-shadow: 0 10px 25px rgb(77, 77, 77);
-
 }
