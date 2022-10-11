@@ -67,6 +67,8 @@ button:hover {
 
 .sovereign:hover {
   box-shadow: 0 10px 25px rgb(153, 231, 245);
+  transform: rotate(360deg);
+  transition-duration: 2s;
 }
 .king:hover {
   box-shadow: 0 15px 30px rgb(97, 180, 197);
@@ -79,6 +81,7 @@ button:hover {
 }
 .rgx:hover {
   box-shadow: 0 10px 25px rgb(92, 166, 179);
+  transform: translate(25px);
 }
 .xeno:hover {
   box-shadow: 0 15px 35px rgb(77, 77, 77);
